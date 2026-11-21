@@ -18,12 +18,6 @@ I'm a Computer Science student at Lovely Professional University. I like buildin
 **Frontend:** React, Next.js, Tailwind CSS  
 **Cloud & DevOps:** AWS, Oracle Cloud, Docker, GitHub Actions, Linux, Bash, Vercel, Render
 
-## A few other things
-
-- Oracle Cloud Infrastructure Certified Architect Associate
-- 1st place at DRIVe Dev, finalist at CODE STORM (200+ teams), top 10 at Promptathon
-- 200+ DSA problems solved in C++ ([practice log](https://github.com/ganesh-tadigadapa/DSA_007))
-
 ## Get in touch
 
 [LinkedIn](https://linkedin.com/in/ganesh-tadigadapa) · ganeshtadigadapa1@gmail.com
