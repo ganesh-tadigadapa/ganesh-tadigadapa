@@ -48,6 +48,8 @@ Diabetic retinopathy screening from fundus photos. It gives a severity grade wit
 <td width="50%" valign="top">
 
 #### [Vautify](https://github.com/ganesh-tadigadapa/vautify)
+<a href="https://vault-store-865.netlify.app"><img src="assets/vautify.jpg" alt="Vautify cluster dashboard: 5 healthy nodes, replication and self-healing" width="100%" /></a>
+
 A distributed object store in **Go**. It verifies every byte on read with checksums, replicates across nodes and **repairs itself** when one fails. The demo runs a real 5-node cluster.
 
 `Go` `Distributed systems` `Replication`
